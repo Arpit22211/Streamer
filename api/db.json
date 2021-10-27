@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Hi",
+      "description": "Its a stream",
+      "id": 1
+    },
+    {
+      "title": "YO",
+      "description": "It's another stream.",
+      "id": 2
+    },
+    {
+      "title": "YO 2",
+      "description": "It's a stream with buttons.",
+      "userId": "117189425450343567066",
+      "id": 3
+    },
+    {
+      "title": "Waka Waka",
+      "description": "Song by Shakera.",
+      "userId": "117189425450343567066",
+      "id": 5
+    }
+  ]
+}
